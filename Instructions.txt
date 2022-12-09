@@ -1,0 +1,7 @@
+# Setting z-offset
+
+1. Home
+2. Enter g-code PROBE_CALIBRATE
+3. Proceed with paper test for setting z-offset.
+4. Run ACCEPT  g-code
+5. Perist offset by entering g-code SAVE_CONFIG
